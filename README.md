@@ -3,14 +3,7 @@
 
 ## File Structure
 
-playwright-demo/
-├── tests/
-│   └── saucedemo.spec.js        
-├── package.json                
-├── package-lock.json           
-└── README.md             
-
-
+<img width="270" height="181" alt="image" src="https://github.com/user-attachments/assets/c0aabe7d-addd-4b66-aa5c-15a816dd15d0" />            
 
 
 ## How to Use in VS Code
