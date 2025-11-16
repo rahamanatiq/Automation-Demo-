@@ -4,7 +4,6 @@
 ## File Structure
 
 playwright-demo/
-│
 ├── tests/
 │   └── saucedemo.spec.js        
 ├── package.json                
