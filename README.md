@@ -2,6 +2,7 @@
 
 
 ## File Structure
+
 playwright-demo/
 │
 ├── tests/
